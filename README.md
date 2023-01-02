@@ -1,5 +1,6 @@
 # Konami-Code
-Link -
+Link - https://harshit-raj-14.github.io/Konami-Code/
+
 
 
 Description - Learnt about Konami Code and using it as an example in this project. Also learn about the cornify script.
